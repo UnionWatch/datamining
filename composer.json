@@ -1,0 +1,12 @@
+{
+    "name": "unionwatch/datamining",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "M S",
+            "email": "ms@union-watch.de"
+        }
+    ],
+    "require": {}
+}
